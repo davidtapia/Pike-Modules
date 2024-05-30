@@ -357,4 +357,3 @@ class Date // {{{
     return value && "'" + QUOTE_SQL((string)value) + "'" || "NULL";
   }
 } // }}}
-
